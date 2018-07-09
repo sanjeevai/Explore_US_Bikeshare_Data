@@ -6,7 +6,7 @@
 
 ### Overview
 
-This is the first project in Data Analyst Nanodegree from Udacity.
+This is the second project in Data Analyst Nanodegree from Udacity.
 
 In this project, I made use of Python to explore data related to bikeshare systems for three major bikeshare systems
 in the United States. I performed data wrangling to unify the format of data from the three systems and wrote code to
