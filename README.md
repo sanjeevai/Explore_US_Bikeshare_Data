@@ -1,6 +1,6 @@
 # Data Analyst Nanodegree
 
-## Introduction to Python for Data Analysis
+## Introduction to Python
 
 ## Project: Explore US Bikeshare Data 
 
