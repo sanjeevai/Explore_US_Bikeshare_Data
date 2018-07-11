@@ -26,4 +26,4 @@ Contains usage information of bikeshare system for three cities: Chicago, Washin
 
 - examples
 
-It contains samples which which worked as a guide when I did the data analysis process.
+It contains samples which worked as a guide when I did the data analysis process.
